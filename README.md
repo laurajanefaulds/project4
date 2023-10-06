@@ -10,8 +10,10 @@ Use machine learning models to figure out relationships between different medica
 
 Project Objective
 
-Our diabetes prediciton dataset will include variables of patients that have diabetes and those who do not. It will also include gender, age, body mass index, deart disease, smoking history amongst other variables. 
+Our diabetes prediction dataset will include variables of patients who have diabetes and those who do not. It will also include gender, age, body mass index, heart disease, and smoking history amongst other variables. 
 
-We will be using  supervised learning and neural networks to predict the probability of a patient developing diabetes. As this is a large datasets, we seek to use this model in the event of complex patterns from the data. 
+We seek to create box plots, ROC curves, precision-recall curves, and histograms for our visualizations on our dashboard.
 
-We plan to use our dataset to explore the relationships between the medical variables and demgraphic factors with the probability of a patient developing diabetes.
+We will be using  supervised learning and neural networks to predict the probability of a patient developing diabetes. As this is a large dataset, we seek to use this model in the event of complex patterns from the data. 
+
+We plan to use our dataset to explore the relationships between the medical variables and demographic factors with the probability of a patient developing diabetes.

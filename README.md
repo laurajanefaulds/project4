@@ -12,7 +12,7 @@ Project Objective
 
 Our diabetes prediction dataset will include variables of patients who have diabetes and those who do not. It will also include gender, age, body mass index, heart disease, and smoking history amongst other variables. 
 
-We seek to create box plots, ROC curves, precision-recall curves, and histograms for our visualizations on our dashboard.
+We seek to create box plots, ROC curves, precision-recall curves, feature importance plots, violin plots, and scatterplots for our visualizations on our dashboard.
 
 We will be using  supervised learning and neural networks to predict the probability of a patient developing diabetes. As this is a large dataset, we seek to use this model in the event of complex patterns from the data. 
 

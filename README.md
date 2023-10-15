@@ -19,7 +19,7 @@ We will be using  supervised learning and neural networks to predict the probabi
 We plan to use our dataset to explore the relationships between the medical variables and demographic factors with the probability of a patient developing diabetes.
 
 Citations:
-https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
-https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/diabetes-and-high-blood-pressure
-https://www.kaggle.com/code/chemistahmedkamel/eda-diabetes-prediction-with-lowest-error
-https://diatribe.org/whats-story-bmi
+1. https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
+2. https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/diabetes-and-high-blood-pressure
+3. https://www.kaggle.com/code/chemistahmedkamel/eda-diabetes-prediction-with-lowest-error
+4. https://diatribe.org/whats-story-bmi

@@ -17,3 +17,9 @@ We seek to create box plots, ROC curves, precision-recall curves, feature import
 We will be using  supervised learning and neural networks to predict the probability of a patient developing diabetes. As this is a large dataset, we seek to use this model in the event of complex patterns from the data. 
 
 We plan to use our dataset to explore the relationships between the medical variables and demographic factors with the probability of a patient developing diabetes.
+
+Citations:
+https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
+https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/diabetes-and-high-blood-pressure
+https://www.kaggle.com/code/chemistahmedkamel/eda-diabetes-prediction-with-lowest-error
+https://diatribe.org/whats-story-bmi

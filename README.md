@@ -7,6 +7,9 @@ Project Statement
 
 Use machine learning models to figure out relationships between different medical and demographic factors and link it to the possibility of developing diabetes.
 
+Link to Github Projects Repo
+
+https://github.com/users/laurajanefaulds/projects/1/views/1
 
 Project Objective
 

@@ -21,6 +21,9 @@ We will be using  supervised learning and neural networks to predict the probabi
 
 We plan to use our dataset to explore the relationships between the medical variables and demographic factors with the probability of a patient developing diabetes.
 
+Visualisation 
+We used tableau to visualise our analysis of the dataset - https://public.tableau.com/app/profile/manisha.reza.paul/viz/Project4_16969896711930/Diabetesprediction?publish=yes
+
 Citations:
 1. https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
 2. https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/diabetes-and-high-blood-pressure
